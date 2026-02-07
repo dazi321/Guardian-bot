@@ -8,7 +8,7 @@ import pandas as pd
 
 # Page config
 st.set_page_config(
-    page_title="Insurance Claims Checker",
+    page_title="Guardian Insurance Claims Checker",
     page_icon="📋",
     layout="wide"
 )
